@@ -2,7 +2,7 @@
 
 namespace Prgr
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -15,7 +15,7 @@ namespace Prgr
     /// <summary>
     ///This should be visible in the docs
     /// </summary>
-    class SeeMeInDocs{
+    public class SeeMeInDocs{
         public int a;
     }
 }
