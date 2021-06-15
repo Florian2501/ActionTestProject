@@ -11,4 +11,11 @@ namespace Prgr
             System.Console.WriteLine("2 + 3 = {0}",Testlib.Class1.add(2,3));
         }
     }
+
+    /// <summary>
+    ///This should be visible in the docs
+    /// </summary>
+    class SeeMeInDocs{
+        public int a;
+    }
 }
