@@ -18,4 +18,11 @@ namespace Prgr
     public class SeeMeInDocs{
         public int a;
     }
+    /// <summary>
+    ///This should also be visible in the docs. Greetings from Flo
+    /// </summary>
+    public class SeeMeInDocs2{
+        public int b;
+        public SeeMeInDocs c;
+    }
 }
