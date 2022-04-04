@@ -1,0 +1,4 @@
+<map id="Prgr.SeeMeInDocs2" name="Prgr.SeeMeInDocs2">
+<area shape="rect" id="node1" title="This should also be visible in the docs. Greetings from Flo" alt="" coords="5,95,144,121"/>
+<area shape="rect" id="node2" href="$class_prgr_1_1_see_me_in_docs.html" title="This should be visible in the docs" alt="" coords="9,5,140,32"/>
+</map>
